@@ -1,0 +1,51 @@
+body{
+background-color: rgb(226, 195, 43);
+}
+
+
+h1 {
+color:brown;
+}
+
+#titulo1 {
+    color:rgb(42, 165, 63);
+    }
+
+.titulo2 {
+        color:rgb(44, 42, 165);
+        }
+
+.gato1 {
+    
+    width: 200px; /* Ajusta el tamaño de la imagen */
+    height: 200px; /* Hace que sea cuadrada */
+    object-fit: cover; /* Ajusta la imagen al contenedor sin deformarla */
+    border-radius: 200px; /* Redondea las esquinas */
+}
+
+#gato2 {
+    
+    width: 200px; /* Ajusta el tamaño de la imagen */
+    height: 200px; /* Hace que sea cuadrada */
+    object-fit: cover; /* Ajusta la imagen al contenedor sin deformarla */
+    border-radius: 20px; /* Redondea las esquinas */
+    border: 3px solid #ccc; /* Opcional: añade un borde */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra opcional */
+    
+}
+
+p{
+font-size: 200%;
+}
+
+
+th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+  
+th {
+    background-color: #0444aa;
+    color: white;
+  }
